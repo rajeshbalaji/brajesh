@@ -3,6 +3,7 @@ email: vasubalajimca@gmail.com
 description: "My personal blog."
 url: ""
 baseurl: ""
+navigation: "main"
 
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "default"
@@ -22,4 +23,15 @@ include:
 
 author:
   name: "Rajesh Balaji"
-  bio: "Welcome to my blog."
+  bio: "Software Engineer | Cloud Enthusiast"
+  avatar: "/assets/images/profile.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:vasubalajimca@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/rajesh-balaji-74787932/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/rajeshbalaji"
